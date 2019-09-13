@@ -8,3 +8,5 @@ Jeigu dalyba ið 0 - paraðote, kad dalyba ið 0 negalima.
 Po atliktø skaièiavimø, programa paklausia ar dar norite toliau skaièiuoti. 
 Jeigu taip, toliau tæsiamas skaièiavimas, jeigu ne- programa baigia darbà.
 Sëkmës
+
+testas
