@@ -9,4 +9,4 @@ Po atliktø skaièiavimø, programa paklausia ar dar norite toliau skaièiuoti.
 Jeigu taip, toliau tæsiamas skaièiavimas, jeigu ne- programa baigia darbà.
 Sëkmës
 
-testas
+testas1
