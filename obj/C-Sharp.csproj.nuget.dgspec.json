@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Andrius\\Documents\\GitHub\\C-Sharp\\C-Sharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Andrius\\Documents\\GitHub\\C-Sharp\\C-Sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andrius\\Documents\\GitHub\\C-Sharp\\C-Sharp.csproj",
+        "projectName": "C-Sharp",
+        "projectPath": "C:\\Users\\Andrius\\Documents\\GitHub\\C-Sharp\\C-Sharp.csproj",
+        "packagesPath": "C:\\Users\\Andrius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrius\\Documents\\GitHub\\C-Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
